@@ -1,4 +1,13 @@
-## Hi there 👋
+## Рад,чтоты оказался здесь👋
+Меня зовут Влад. В 2025 году я окончил курсы разработчика С++ от яндекс практикума. Но на этом моя работа не заканчивается, ведь есть еще множество неизведанных техонологий, которые я стремлюсь изучить, а также совершенствоваться в использовании тех, с которыми уже знаком.
+____
+## 📞 Контакты:
+  + 📱Telegramm: https://t.me/vlad_azarchik
+  + 📨e-mail: v.azarchik@mail.ru
+____
+## 💻 Стэк технологий:
+![REST](https://img.shields.io/badge/REST-API-FF6F61?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![C++17](https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++20](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Boost](https://img.shields.io/badge/Boost-1570B6?style=for-the-badge&logo=boost&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-669933?style=for-the-badge&logo=conan&logoColor=white) ![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white) ![Yandex Tank](https://img.shields.io/badge/Yandex_Tank-FF0000?style=for-the-badge) ![libpqxx](https://img.shields.io/badge/libpqxx-4169E1?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Catch2](https://img.shields.io/badge/Catch2-00BFFF?style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![ANTLR](https://img.shields.io/badge/ANTLR-9B4F96?style=for-the-badge&logo=antlr&logoColor=white) ![PromQL](https://img.shields.io/badge/PromQL-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <!--
 **Azarchik-Vladislav/Azarchik-Vladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
